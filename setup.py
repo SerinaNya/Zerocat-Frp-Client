@@ -8,5 +8,5 @@ setup(
     license='MIT',
     author='Xiao_Jin',
     author_email='xiao-jin@xiao-jin.xyz',
-    description='Zerocat Frp Client'
+    description='Zerocat Frp Client', install_requires=['pyfiglet', 'requests']
 )
